@@ -2,7 +2,7 @@
 /**
 * main - A program that prints a line with puts function
 * then
-* return 0 program success
+* Return 0 to indicate successful program execution
 */
 int main(void)
 {
